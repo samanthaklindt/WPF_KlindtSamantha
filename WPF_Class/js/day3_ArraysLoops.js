@@ -128,15 +128,11 @@
 
 var pro2 =prompt('Give me a number');
 
-    for(i=5;i<=pro2;i=i+1){
-       console.log(i+1)
+    for(i=5;i<=pro2;i=i++){
+       console.log (i*2));
 
 
     }
-
-
-
-
 
 
 
