@@ -63,10 +63,10 @@
 //
 //);
 
-//
+
 //var triangle = [];
-//triangle[0]=Number(prompt("Calculator: What is the variable for 'a' of the triangle?"));
-//triangle[1]=Number(prompt("Calculator: What is the variable for 'b' of the triangle?"));
+//triangle[0]=Number(prompt("Calculator: What is the base of the triangle?"));
+//triangle[1]=Number(prompt("Calculator: What is the height of the triangle?"));
 //triangle[2]=Math.sqrt(triangle[0]*triangle[0]
 //+triangle[1]*triangle[1]
 //);
