@@ -25,7 +25,7 @@
 
 //Slice of Pie: Part 1
 
-  //Calculate how much pizza each partygoer will get
+  //Calculate how much pizza each party goer will get
 
   //
 
