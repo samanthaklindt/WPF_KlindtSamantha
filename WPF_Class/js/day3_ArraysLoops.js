@@ -126,41 +126,13 @@
 //prompted value, console log i only and formulate the square loop, i should be squared (5,10,15,20), dont start at 0
 
 
-//var pro2 =prompt('Give me a number');
-//
-//    for(i=5;i<=pro2;i=i++){
-//       console.log (i*2));
-//
-//
-//    }
+var pro2 =prompt('Give me a number');
 
-//Day 4 - Arrays & Loops
-//
-//
-//var arr=[];
-//arr[0]=[];
-//arr[1]=[];
-//arr[2]=[];
-//arr[3]=[];
-//arr[4]=[];
-//
-//arr[0][0]= 1;
-//arr[0][1]= 2;
-//arr[0][2]= 3;
-//arr[0][3]= 4;
-//
-//arr[1][0]= 2;
-//arr[2][0]= 3;
-//arr[3][0]= 4;
-//
-//for(i=1;i<=3;i++){
-//    console.log(arr[i]);
-//    for(j=1;j<=3;j++){
-//        console.log(i+':'+j);
-//        arr[i][j]=arr[0][i]*arr[j][0];
-//
-//    }
-//    console.log(arr[i]);
-//}
-//
-//
+    for(i=5;i<=pro2;i=i++){
+       console.log (i*2));
+
+
+    }
+
+
+
