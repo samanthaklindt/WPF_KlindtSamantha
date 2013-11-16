@@ -30,6 +30,8 @@ console.log('... ');
 
 console.log('...... ');
 
+console.log('... ');
+
 
 if(realSpecies>imaginarySpecies){
     console.log('Congrats! You are on the planet Earth!');
