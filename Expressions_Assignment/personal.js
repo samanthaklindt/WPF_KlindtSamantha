@@ -21,7 +21,7 @@ var age= prompt('What is your age?');
 var year= prompt('What year is it?');
 var yearRandom= prompt('What year will it be in 20 years?');
 var equation= (yearRandom - year);
-var futureAge= parseInt(age + equation);
+var futureAge= age + equation;
 
 console.log('You will be ' + (futureAge) + ' years old in ' + (yearRandom));
 
