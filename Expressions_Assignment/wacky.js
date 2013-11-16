@@ -26,6 +26,14 @@ var imaginarySpecies= cyclops + bigFoot;
 
 console.log('Randomizing your planetary location... ');
 
+console.log(' ');
+
+console.log('Please Wait... ');
+
+console.log('... ');
+
+console.log('...... ');
+
 console.log('... ');
 
 console.log('...... ');
