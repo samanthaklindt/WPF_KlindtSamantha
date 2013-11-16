@@ -15,3 +15,13 @@
 
 
 //At least one of each variable with meaningful names: 1. Array 2. String 3. Number
+
+
+var fullsail=prompt ('Do you currently go to Full Sail University? (Yes/No)');
+
+if(fullsail= Yes){
+    var iconAge=prompt ('What is the age of your Industry Icon?');
+    var yourAge=prompt ('What is your age?');
+    
+}
+
