@@ -49,6 +49,7 @@
             <state line="4" column="10" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
               <folding>
                 <element signature="e#0#49#0" expanded="false" />
+                <marker date="1384634202000" expanded="true" signature="257:342" placeholder="{...}" />
               </folding>
             </state>
           </provider>
@@ -57,7 +58,7 @@
       <file leaf-file-name="wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="1" selection-start="931" selection-end="931" vertical-scroll-proportion="0.6736527" vertical-offset="0" max-vertical-offset="668">
+            <state line="26" column="55" selection-start="759" selection-end="759" vertical-scroll-proportion="0.53892213" vertical-offset="0" max-vertical-offset="668">
               <folding>
                 <element signature="e#0#49#0" expanded="false" />
               </folding>
@@ -250,6 +251,7 @@
         <state line="16" column="83" selection-start="524" selection-end="524" vertical-scroll-proportion="0.0" vertical-offset="240" max-vertical-offset="330">
           <folding>
             <element signature="e#0#49#0" expanded="false" />
+            <marker date="1384634202000" expanded="true" signature="257:342" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -282,6 +284,7 @@
         <state line="4" column="10" selection-start="61" selection-end="61" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <folding>
             <element signature="e#0#49#0" expanded="false" />
+            <marker date="1384634202000" expanded="true" signature="257:342" placeholder="{...}" />
           </folding>
         </state>
       </provider>
@@ -295,7 +298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="1" selection-start="931" selection-end="931" vertical-scroll-proportion="0.6736527" vertical-offset="0" max-vertical-offset="668">
+        <state line="26" column="55" selection-start="759" selection-end="759" vertical-scroll-proportion="0.53892213" vertical-offset="0" max-vertical-offset="668">
           <folding>
             <element signature="e#0#49#0" expanded="false" />
           </folding>
