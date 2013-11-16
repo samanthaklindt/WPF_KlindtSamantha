@@ -4,6 +4,7 @@
 
 //Personal
 
+
 var age= prompt('What is your age?');
 var year= prompt('What year is it?');
 var yearRandom= prompt('What year will it be in 20 years?');
