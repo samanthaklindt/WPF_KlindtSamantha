@@ -28,4 +28,7 @@ if(realSpecies>imaginarySpecies){
     console.log('Congrats! You are on the planet Earth!');
 }
 
+if(realSpecies<imaginarySpecies){
+    console.log('Be careful! You are in some strange area, you might want to find home soon!');
+}
 
