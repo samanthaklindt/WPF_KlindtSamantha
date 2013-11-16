@@ -24,4 +24,8 @@ var sloth= Math.random();
 var realSpecies= tuna + sloth;
 var imaginarySpecies= cyclops + bigFoot;
 
+if(realSpecies>imaginarySpecies){
+    console.log('Congrats! You are on the planet Earth!');
+}
+
 
