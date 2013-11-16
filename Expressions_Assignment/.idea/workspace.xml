@@ -58,7 +58,7 @@
       <file leaf-file-name="wacky.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wacky.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="23" selection-start="806" selection-end="806" vertical-scroll-proportion="0.6287425" vertical-offset="0" max-vertical-offset="705">
+            <state line="34" column="23" selection-start="853" selection-end="853" vertical-scroll-proportion="0.7185629" vertical-offset="0" max-vertical-offset="750">
               <folding>
                 <element signature="e#0#49#0" expanded="false" />
               </folding>
@@ -298,7 +298,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wacky.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="23" selection-start="806" selection-end="806" vertical-scroll-proportion="0.6287425" vertical-offset="0" max-vertical-offset="705">
+        <state line="34" column="23" selection-start="853" selection-end="853" vertical-scroll-proportion="0.7185629" vertical-offset="0" max-vertical-offset="750">
           <folding>
             <element signature="e#0#49#0" expanded="false" />
           </folding>
