@@ -15,3 +15,13 @@
 
 
 //At least one of each variable with meaningful names: 1. Array 2. String 3. Number
+
+var cyclops= Math.random();
+var tuna= Math.random();
+var bigFoot= Math.random();
+var sloth= Math.random();
+
+var realSpecies= tuna + sloth;
+var imaginarySpecies= cyclops + bigFoot;
+
+
