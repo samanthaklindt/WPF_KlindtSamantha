@@ -34,6 +34,9 @@ console.log('... ');
 
 console.log('...... ');
 
+console.log('... ');
+
+console.log('...... ');
 
 
 if(realSpecies>imaginarySpecies){
