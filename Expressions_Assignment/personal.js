@@ -26,14 +26,6 @@ var futureAge= parseInt(age + equation);
 console.log('You will be ' + (futureAge) + ' years old in ' + (yearRandom));
 
 
-//var over18 = new Array();
-//over18[0] = "You can vote";
-//over18[1] = "You can smoke";
-//over18[2] = "You can join the military";
-//over18[3] = "You can go clubbing";
-//
-//console.log(over18[]);
-
 
 var storageString=' ';
     if(futureAge=18) {
