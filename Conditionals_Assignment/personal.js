@@ -18,3 +18,6 @@ var year= prompt('What year were you born in?'); //This variable prompts the use
 var todaysYear= prompt('What year is it now?'); //This variable prompts the user to input the year they are currently in.
 var age= todaysYear - year; //This variable is subtracting todaysYear from year to get the users age.
 
+if(age<18){
+    console.log('You are a minor!');
+} 
