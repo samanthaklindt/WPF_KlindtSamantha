@@ -11,3 +11,5 @@
 //All prompted values are checked to make sure they look okay.
 
 //Each line of code has a meaningful comment.
+
+var name= prompt('What is your name?'); //This variable prompts the user to input their name.
