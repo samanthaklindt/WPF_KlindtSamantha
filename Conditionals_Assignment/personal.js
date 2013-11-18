@@ -22,7 +22,7 @@ console.log('Hello '+name+ '! You are '+age+' years old.'); //This line puts tog
 
 if(age<18){ //This if statement requires the age to be less than 18 in order to print the answer.
     console.log('You are a minor!'); //This line tells the user they are a minor based on their age which is less than 18.
-} else{(age>18)
-    console.log('You are an adult!');
+} else{(age>18) // This else statement requires the age of the user to be greater than 18 in order to print the given.
+    console.log('You are an adult!'); //This line tells the user that they are an adult based on their age being over 18.
 }
 
