@@ -16,15 +16,15 @@ function worldDisplay(worldArray,xyz,yyy,charName){
         {
             if(i==yyy &&j==xyz){ formattedResult+=charName}
             else{
-                formattedResult+= worldArray[i][j] +' ';
-                if(worldArray[i][j].length==0){formattedResult+='        '}
-                if(worldArray[i][j].length==1){formattedResult+='       '}
-                if(worldArray[i][j].length==2){formattedResult+='      '}
-                if(worldArray[i][j].length==3){formattedResult+='     '}
-                if(worldArray[i][j].length==4){formattedResult+='    '}
-                if(worldArray[i][j].length==5){formattedResult+='   '}
-                if(worldArray[i][j].length==6){formattedResult+='  '}
-                if(worldArray[i][j].length==7){formattedResult+=' '}
+                formattedResult+= worldArray[i][j][0] +' ';
+                if(worldArray[i][j][0].length==0){formattedResult+='        '}
+                if(worldArray[i][j][0].length==1){formattedResult+='       '}
+                if(worldArray[i][j][0].length==2){formattedResult+='      '}
+                if(worldArray[i][j][0].length==3){formattedResult+='     '}
+                if(worldArray[i][j][0].length==4){formattedResult+='    '}
+                if(worldArray[i][j][0].length==5){formattedResult+='   '}
+                if(worldArray[i][j][0].length==6){formattedResult+='  '}
+                if(worldArray[i][j][0].length==7){formattedResult+=' '}
             }        }
         formattedResult+='\n';
     }
