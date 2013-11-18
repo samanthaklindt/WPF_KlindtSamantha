@@ -20,4 +20,6 @@ var age= todaysYear - year; //This variable is subtracting todaysYear from year 
 
 if(age<18){
     console.log('You are a minor!');
-} 
+} else{(age>18)
+    console.log('You are an adult!');
+}
