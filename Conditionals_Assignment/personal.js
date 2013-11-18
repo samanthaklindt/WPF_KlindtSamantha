@@ -12,7 +12,8 @@
 
 //Each line of code has a meaningful comment.
 
-var name= prompt('What is your name?'); //This variable prompts the user to input their name.
+var name; //This variable stores the prompted variable for name.
+name = prompt('What is your name?'); //This variable prompts the user to input their name.
 var year= prompt('What year were you born in?'); //This variable prompts the user to input their year of birth.
 var todaysYear= prompt('What year is it now?'); //This variable prompts the user to input the year they are currently in.
 var age= todaysYear - year; //This variable is subtracting todaysYear from year to get the users age.
