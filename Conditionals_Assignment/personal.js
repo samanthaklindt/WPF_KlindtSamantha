@@ -18,6 +18,8 @@ var year= prompt('What year were you born in?'); //This variable prompts the use
 var todaysYear= prompt('What year is it now?'); //This variable prompts the user to input the year they are currently in.
 var age= todaysYear - year; //This variable is subtracting todaysYear from year to get the users age.
 
+console.log('Hello '+name+ '! You are '+age+' years old.');
+
 if(age<18){
     console.log('You are a minor!');
 } else{(age>18)
@@ -28,4 +30,7 @@ if(year<2013){
     console.log('Congratulations, You have some how figured out time travel and are in a past time!');
 }else if(year>=2013){
     console.log('Congratulations, You have some how figured out time travel and are in a future time!');
+}if(year=2013){
+    console.log('You are in the year 2013, you have not figured out time travel and most likely won\'t until you work even harder!');
 }
+
