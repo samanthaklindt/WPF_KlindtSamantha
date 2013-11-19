@@ -13,3 +13,4 @@ if(totalDevices>5){ //This if statement is looking for the variable totalDevices
 }else{(totalDevices<5) //This if statement is looking for the variable totalDevices to be less than 5.
     console.log('You have '+totalDevices+' and that is less than 5... You may want to look into getting more computers or mobile devices!') //This line is printing out the total number of devices you currently have and tells you that you should get more devices.
 }
+//JMD What happens when you have exactly 5?
