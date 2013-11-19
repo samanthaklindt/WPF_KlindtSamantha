@@ -3,6 +3,9 @@
  */
 
 //Personal
+// JMD COMMENT- When you are using dates there is an problem which comes up. Imagine it is January 1 2000, I was born on Dec 31 1999. According to your formula how old am I? 
+
+
 
 var name; //This variable stores the prompted variable for name.
 name = prompt('What is your name?'); //This variable prompts the user to input their name.
@@ -14,7 +17,9 @@ console.log('Hello '+name+ '! You are '+age+' years old.'); //This line puts tog
 
 if(age<18){ //This if statement requires the age to be less than 18 in order to print the answer.
     console.log('You are a minor!'); //This line tells the user they are a minor based on their age which is less than 18.
-} else{(age>18) // This else statement requires the age of the user to be greater than 18 in order to print the given.
+} else{(age>18) //JMD COMMENT- -5% Any condition which requires a check is an if not an else. 
+
+// This else statement requires the age of the user to be greater than 18 in order to print the given.
     console.log('You are an adult!'); //This line tells the user that they are an adult based on their age being over 18.
 }
 
