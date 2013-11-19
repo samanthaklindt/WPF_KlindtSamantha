@@ -25,11 +25,4 @@ var storageString=' ';
     }
 
 console.log(storageString);
-console.log(' ');
-console.log(' ');
-console.log(' ');
-console.log(' ');
-
-
-
 

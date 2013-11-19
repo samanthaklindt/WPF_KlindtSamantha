@@ -13,11 +13,3 @@ if(fullsail= 'Yes'){
 }else{fullsail= ('No')
     console.log('Sorry, you aren\'t on track yet, keep trying!');
 }
-
-console.log(' ');
-console.log(' ');
-console.log(' ');
-console.log(' ');
-
-
-

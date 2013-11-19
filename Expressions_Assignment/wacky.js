@@ -56,8 +56,3 @@ if(realSpecies>imaginarySpecies){
 if(realSpecies<imaginarySpecies){
     console.log('Be careful! You are in some strange area, you might want to find home soon!');
 }
-
-console.log(' ');
-console.log(' ');
-console.log(' ');
-console.log(' ');
