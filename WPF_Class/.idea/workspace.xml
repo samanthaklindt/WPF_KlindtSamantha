@@ -26,7 +26,7 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="270">
+            <state line="5" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="-0.0" vertical-offset="75" max-vertical-offset="270">
               <folding />
             </state>
           </provider>
@@ -35,10 +35,8 @@
       <file leaf-file-name="world.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/world.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-              <folding>
-                <element signature="e#0#61#0" expanded="false" />
-              </folding>
+            <state line="34" column="35" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -46,10 +44,8 @@
       <file leaf-file-name="worldDisplay.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/worldDisplay.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="71" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-              <folding>
-                <element signature="n#!!doc;n#worldDisplay#0" expanded="false" />
-              </folding>
+            <state line="26" column="71" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -57,7 +53,7 @@
       <file leaf-file-name="worldCreate.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/worldCreate.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="6" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.8347107" vertical-offset="114" max-vertical-offset="870">
+            <state line="88" column="0" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.75206614" vertical-offset="684" max-vertical-offset="1410">
               <folding>
                 <element signature="n#!!doc;n#createWorld#0" expanded="false" />
               </folding>
@@ -177,7 +173,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Expressions" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Conditionals_Assignment" />
     <property name="FullScreen" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
   </component>
@@ -190,6 +186,14 @@
     </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -200,12 +204,8 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -215,11 +215,11 @@
       <setting name="preferredDebugBrowser" value="CHROME" />
       <method />
     </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <configuration default="true" type="XSLT" factoryName="XSLT">
@@ -236,10 +236,6 @@
       <OutputType value="CONSOLE" save-to-file="false" />
       <FileType name="XML" />
       <JdkChoice value="FROM_MODULE" />
-      <method />
-    </configuration>
-    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
-      <browser start="false" url="" with-js-debugger="false" />
       <method />
     </configuration>
     <list size="0" />
@@ -291,7 +287,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1440" height="874" extended-state="0" />
+    <frame x="0" y="22" width="1440" height="874" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -334,9 +330,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quiz1_samanthaklindt.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1620">
-          <folding />
-        </state>
+        <state line="21" column="23" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="315" max-vertical-offset="1620" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../Conditionals/js/script.js">
@@ -346,25 +340,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/day1_variables.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="30" selection-start="36" selection-end="36" vertical-scroll-proportion="0.02202643" vertical-offset="0" max-vertical-offset="681">
-          <folding />
-        </state>
+        <state line="1" column="30" selection-start="36" selection-end="36" vertical-scroll-proportion="0.02202643" vertical-offset="0" max-vertical-offset="681" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/quiz1_samanthaklindt.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="21" column="23" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620">
-          <folding />
-        </state>
+        <state line="21" column="23" selection-start="427" selection-end="427" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1620" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/day4_conditionals.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="25" selection-start="426" selection-end="426" vertical-scroll-proportion="0.4845815" vertical-offset="0" max-vertical-offset="681">
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="24" column="25" selection-start="426" selection-end="426" vertical-scroll-proportion="0.4845815" vertical-offset="0" max-vertical-offset="681" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/day3_ArraysLoops.js">
@@ -383,64 +369,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/day5_review.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="0" selection-start="1697" selection-end="1697" vertical-scroll-proportion="1.7621145" vertical-offset="0" max-vertical-offset="1305">
-          <folding>
-            <element signature="e#0#49#0" expanded="false" />
-          </folding>
-        </state>
+        <state line="82" column="0" selection-start="1697" selection-end="1697" vertical-scroll-proportion="1.7621145" vertical-offset="0" max-vertical-offset="1305" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/day7_review.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="47" column="29" selection-start="1157" selection-end="1157" vertical-scroll-proportion="1.0352423" vertical-offset="0" max-vertical-offset="1620">
-          <folding />
-        </state>
+        <state line="47" column="29" selection-start="1157" selection-end="1157" vertical-scroll-proportion="1.0352423" vertical-offset="0" max-vertical-offset="1620" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/day6_review.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="79" column="29" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1410">
+        <state line="79" column="29" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.0" vertical-offset="180" max-vertical-offset="1410" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="270">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/functions.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="0" selection-start="768" selection-end="768" vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="825">
+        <state line="51" column="0" selection-start="768" selection-end="768" vertical-scroll-proportion="0.87603307" vertical-offset="99" max-vertical-offset="825">
           <folding>
             <element signature="n#!!doc;n#circle#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="33" selection-start="160" selection-end="160" vertical-scroll-proportion="-3.125" vertical-offset="0" max-vertical-offset="270">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/world.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="89" selection-end="89" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
-          <folding>
-            <element signature="e#0#61#0" expanded="false" />
-          </folding>
+        <state line="34" column="35" selection-start="848" selection-end="848" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/worldDisplay.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="71" selection-start="1202" selection-end="1202" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
-          <folding>
-            <element signature="n#!!doc;n#worldDisplay#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/worldCreate.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="6" selection-start="1415" selection-end="1415" vertical-scroll-proportion="0.8347107" vertical-offset="114" max-vertical-offset="870">
+        <state line="88" column="0" selection-start="2445" selection-end="2445" vertical-scroll-proportion="0.75206614" vertical-offset="684" max-vertical-offset="1410">
           <folding>
             <element signature="n#!!doc;n#createWorld#0" expanded="false" />
           </folding>
