@@ -14,5 +14,7 @@
 
 //1. At least one function returns a value. 2. Return values are meaningful. 3. Return values are assigned or used in a meaningful manner.
 
-var designer= prompt('What type of designer do you want to be?');
+var designer= prompt('To see what kind of designer you are, insert \'Designer\'!);
+
+function webGen(designer){
 
