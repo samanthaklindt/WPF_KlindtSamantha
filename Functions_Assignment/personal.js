@@ -9,3 +9,10 @@
 var color;
 color= prompt('What is your favorite color?');
 
+function colorGen(color){
+
+    if(color = 'red'){
+        console.log('Your favorite color is red, like an apple!');
+        if(color = 'blue')
+            console.log('Your favorite color is blue, like the sky!');
+    }
