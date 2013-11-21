@@ -18,3 +18,14 @@ var planet= prompt('What planet are you on right now?');
 
 function dinosuarGen(planet){
 
+    var randomEvent=Math.random();
+    if(planet=='Earth'){
+        (randomEvent)
+        if(randomEvent>.25){
+            console.log('Pterodactyl!');
+        }else if(randomEvent<.75){
+            console.log('T-Rex!');
+        }
+    }
+    return 'Welcome to the old ages of ' +planet + '!';
+}
