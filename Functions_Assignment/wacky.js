@@ -16,3 +16,5 @@
 
 var planet= prompt('What planet are you on right now?');
 
+function dinosuarGen(planet){
+
