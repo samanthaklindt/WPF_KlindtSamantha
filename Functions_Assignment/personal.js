@@ -5,7 +5,6 @@
 //Personal
 
 
-
 var color;
 color= prompt('What is your favorite color?');
 
