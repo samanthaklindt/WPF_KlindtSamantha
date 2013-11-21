@@ -21,3 +21,4 @@ function colorGen(color){
     return color;
 }
 
+console.log(colorGen());
