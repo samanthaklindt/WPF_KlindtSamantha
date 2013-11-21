@@ -23,4 +23,8 @@ function webGen(designer){
         (webEvent)
         if(webEvent>.60){
             console.log('Web Developer');
+        }else if(webEvent<.10){
+            console.log('Mobile Developer');
         }
+    }
+    
