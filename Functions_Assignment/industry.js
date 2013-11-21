@@ -5,7 +5,8 @@
 //Industry
 
 
-var designer= prompt('To see what kind of designer you are, insert \'Designer\'!);
+var designer;
+designer= prompt('To see what kind of designer you are, insert \'Designer\'' + '!');
 
 function webGen(designer){
 
@@ -21,3 +22,4 @@ function webGen(designer){
         return 'Welcome ' +designer + '!';
 }
 
+console.log(webGen(designer));
