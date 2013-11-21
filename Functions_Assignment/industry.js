@@ -18,3 +18,9 @@ var designer= prompt('To see what kind of designer you are, insert \'Designer\'!
 
 function webGen(designer){
 
+    var webEvent=Math.random();
+    if(designer=='Designer'){
+        (webEvent)
+        if(webEvent>.60){
+            console.log('Web Developer');
+        }
